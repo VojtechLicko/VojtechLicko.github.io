@@ -1,0 +1,31 @@
+body {
+    background-color: #282a36;
+    overflow: hidden;
+}
+p { 
+    color: #bd93f9;
+    font-size: 1em;
+    text-align: center;
+
+}
+
+
+h1{
+    position:absolute;
+    left:0;
+    right:0;
+    top: 45%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: auto;
+    
+}
+#container { 
+    color: #f758a0;
+    font-size: 5em;
+    white-space: pre;
+    text-align: center;
+
+
+}
+
